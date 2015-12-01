@@ -1,4 +1,4 @@
-# breakLoopPromisePractice
+# Promises and Loops
 
 I promise to pass your test…
 
